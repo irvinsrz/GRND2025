@@ -65,6 +65,6 @@ student2 = {
 "age": 19,
 "physical": physicalAttributes2
 }
-print(student[1].get("physical").get("Weight"))
-print(student[0].get("physical").get("Height"))
+print(students[1].get("physical").get("Weight"))
+print(students[0].get("physical").get("Height"))
 
